@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @whatfontisthis
+- 👀 I’m interested in self driving flying cars.
+- 🌱 I’m currently learning C, python, machine learinng, AI.
+- 💞️ I’m looking to collaborate on printfhello world project.
+- 📫 Email: woobina@gmail.com   Discord: Woobs#2452
