@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @whatfontisthis
 - 👀 I’m interested in optimization and clean code.
 - 🌱 I’m currently learning C/C++, python, ML, AI.
-- 💞️ I’m looking to collaborate on self-driving-flying-cars project ;D
 - 📫 Email: woobin.dev@gmail.com   Discord: Woobs#2452
